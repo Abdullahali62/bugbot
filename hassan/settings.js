@@ -1,26 +1,24 @@
-
-
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "923107612528"
-global.ownername = "Hassan"
-global.ytname = "Hassan"
-global.socialm = "GitHub: Hassan Ali"
+global.ownername = "*Hassan*"
+global.ytname = "*Hassan*"
+global.socialm = "GitHub: *Hassan Ali*"
 global.location = "Africa, Nigeria, Lagos"
 
 global.ownernumber = '923107612528,923107612528,923107612528'  //creator number
-global.ownername = 'Hassan' //owner name
-global.botname = '🕷Hassan🕷' //name of the bot
+global.ownername = '*Hassan*' //owner name
+global.botname = '🕷*Hassan*🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Hassan\n\nContact: +923107612528'
+global.author = '*Hassan*\n\nContact: +923107612528'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "."
+global.wm = "*Hassan*."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaeIf8xAu3aUQm3QAV3A'
@@ -53,10 +51,10 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 //reply messages
 global.mess = {
-    done: '*Done !*',
-    prem: '*Only For Premium Users',
+    done: '*Done!*',
+    prem: '*Only For Premium Users*',
     admin: '*Only For my admin Hassan*',
-    botAdmin: 'Only When Bot Is Admin',
+    botAdmin: '*Only When Bot Is Admin*',
     owner: '*Only For my Admin Hassan*',
     group: '*Feature is only for Groups*',
     private: '*Only For Private Chats*',
