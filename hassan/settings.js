@@ -55,9 +55,9 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 global.mess = {
     done: '*Done !*',
     prem: '*Only For Premium Users',
-    admin: '*Only For my admin "Hassan"*',
+    admin: '*Only For my admin Hassan*',
     botAdmin: 'Only When Bot Is Admin',
-    owner: '*Only For my Admin "Hassan"*',
+    owner: '*Only For my Admin Hassan*',
     group: '*Feature is only for Groups*',
     private: '*Only For Private Chats*',
     wait: '*In Process....*',    
